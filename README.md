@@ -1,9 +1,5 @@
-# Portfolio Project
+# Portfolio
 
-> 🧑‍🚀 **Seasoned astronaut?**
+> 👷🏻‍♂️ **The project is in its design phase**
 
-## 🚀 Project Structure
-
-## 🧞 Commands
-
-## 👀 Want to learn more?
+## 🚧 Under Construction
